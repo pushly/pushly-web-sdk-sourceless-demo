@@ -1,0 +1,11 @@
+.idea
+node_modules
+.DS_Store
+dist
+build
+yarn-error.log
+package-lock.json
+.vscode
+src/**/*.js
+src/**/*.map
+yarn.lock
